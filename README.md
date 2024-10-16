@@ -1,3 +1,3 @@
 # FlashKill
 
-Hello, World!
+FlashKill is a close-source project in alpha build.
